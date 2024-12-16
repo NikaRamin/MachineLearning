@@ -54,7 +54,5 @@ Contributions are welcome! If you would like to enhance existing projects or add
 2. Create a new branch for your changes.
 3. Submit a pull request with a clear description of your modifications.
 
----
-
 Thank you for exploring this repository! If you have any questions or feedback, feel free to reach out via the repository's Issues section.
 
