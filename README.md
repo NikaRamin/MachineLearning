@@ -27,7 +27,7 @@ This repository contains various projects and notebooks that explore machine lea
 This repository leverages the following tools and libraries:
 
 - **Python**: Core programming language for all projects.  
-- **TensorFlow**: Deep learning framework for building and training models.  
+- **TensorFlow,PyTorch**: Deep learning framework for building and training models.  
 - **Jupyter Notebook**: Interactive environment for code and data visualization.  
 - **NumPy, Pandas**: Essential libraries for data manipulation and analysis.  
 - **Matplotlib**: Visualization library for plotting graphs and charts.
