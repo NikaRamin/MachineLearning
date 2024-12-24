@@ -19,8 +19,12 @@ This repository contains various projects and notebooks that explore machine lea
 - **`dogsVsCats.py`**  
   A binary image classification model for distinguishing between dogs and cats.
 
-- **`movie_Recommender.ipynb`**  
+- **`movie_Recommender`**  
   A recommendation system for suggesting movies based on similar users' ratings.
+  
+- **`sentiment_analysis`**  
+  A sentiment prediction model for movie reviews using the IMDB dataset.
+
 
 ## Tools and Libraries
 
