@@ -22,7 +22,7 @@ This repository contains various projects and notebooks that explore machine lea
 - **`movie_Recommender`**  
   A recommendation system for suggesting movies based on similar users' ratings.
   
-- **`sentiment_analysis`**  
+- **`Sentiment-Analysis`**  
   A sentiment prediction model for movie reviews using the IMDB dataset.
 
 
