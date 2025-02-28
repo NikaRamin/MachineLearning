@@ -24,7 +24,10 @@ This repository contains various projects and notebooks that explore machine lea
   
 - **`Sentiment-Analysis`**  
   A sentiment prediction model for movie reviews using the IMDB dataset.
-
+  
+  
+- **`EmojiSuggestion`**  
+  An app that suggests emojis based on the sentiment of the sentence.
 
 ## Tools and Libraries
 
